@@ -1,0 +1,46 @@
+.app-Heading {
+  text-align: center;
+  color: #333;
+}
+
+.App-input-element {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  display:flex;
+  overflow: hidden;
+}
+
+.app-add-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.app-add-button:hover {
+  background-color: #0056b3;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+li button {
+  margin-left: 10px;
+  padding: 4px 8px;
+  background-color: #ff3333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+li button:hover {
+  background-color: #b30000;
+}
